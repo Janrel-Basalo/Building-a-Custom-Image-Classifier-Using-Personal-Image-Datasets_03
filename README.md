@@ -2,6 +2,8 @@
 
 ## Google Colab link : https://colab.research.google.com/drive/1LtY7AwrgScu7G7wK9SFemqhD6ssD7Wv5?usp=sharing
 
+## model: https://drive.google.com/drive/folders/15bYc8utTLD3hNQOJfJrpZKQJf070c6v9?usp=sharing
+
 ## Visualization & Overfitting
 
 ## 1. What signs indicated overfitting in your first model?
